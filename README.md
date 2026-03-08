@@ -1,91 +1,93 @@
-<!-- 🌟 CodeByLunar Profile README 🌟 -->
+<!-- HEADER -->
 
-<!-- 🌈 Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=CodeByLunar&fontAlign=50&fontAlignY=40&color=gradient&desc=Building%20bots%20and%20communities%20with%20style!&descAlign=50&descAlignY=55" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=pushpdevraj&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&desc=Backend%20Developer%20•%20Automation%20Engineer&descAlign=50&descAlignY=60"/>
 </p>
 
-<!-- ✍️ Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;Discord+Bot+Developer;Open+Source+Contributor;Always+Learning+and+Creating" alt="Typing SVG" />
-</p>
-
-<!-- 💫 Welcome message -->
-<p align="center">
-  <samp>
-    Hey there! I'm <b>CodeByLunar</b> – crafting bots, learning, and building awesome communities. Let's collab and make something epic! 🚀
-  </samp>
+<img src="https://komarev.com/ghpvc/?username=pushpdevraj&label=PROFILE+VIEWS&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-<!-- 🌐 Social Links -->
-<h2 align="center">🌐 Connect with Me</h2>
+
+```bash
+$ whoami
+pushpdevraj
+
+$ role
+Backend Developer
+
+$ focus
+Discord Bots
+Automation Systems
+Backend Infrastructure
+
+$ languages
+Node.js | TypeScript | Python
+
+$ database
+MongoDB
+
+$ tools
+Git | VSCode | APIs
+```
+
+---
+
+
 <p align="center">
-  <a href="https://discord.gg/lunardevs" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/1lordxdev1/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/@devtopibaaz?si=WOOMtE-W57v6yyRZ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+<img src="https://lanyard.cnrad.dev/api/1307092197316890634?theme=dark&bg=0f2027&borderRadius=12px"/>
 </p>
 
 ---
 
-<!-- 🛠️ Tech Stack -->
-<h2 align="center">🛠️ My Tech Stack</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,discord,git,github,vscode,html,css" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,python,react,git,github,vscode,html,css,discord"/>
 </p>
 
 ---
 
-<!-- 📚 About Me -->
-<h2 align="center">📚 About Me</h2>
 
-- 👋 Hi, I’m CodeByLunar  
-- 🔭 I’m working on advanced Discord bots, automation, and full-stack apps  
-- 🌱 Currently learning: Next.js, TypeScript, MongoDB advanced patterns  
-- 💬 Ask me about anything related to Discord bots, backend, or automation  
-- ⚡ Fun fact: I love adding animations to my work – it brings life to code!  
-- 🎯 Goal: Build communities, share knowledge, and level up together  
-
----
-
-<!-- 📈 GitHub Stats -->
-<h2 align="center">📈 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByLunar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=15" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pushpdevraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeByLunar&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByLunar&theme=github_dark" alt="Profile Details" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpdevraj&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- 🌟 Contribution Graph -->
-<h2 align="center">🌟 Contribution Graph</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByLunar&bg_color=1e1e2f&color=58A6FF&line=00f7ff&point=ffffff&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpdevraj&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- 🎨 Quote of the Day -->
-<h2 align="center">🎨 Quote of the Day</h2>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Stay%20hungry,%20stay%20foolish!" alt="Quote of the Day" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pushpdevraj&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-<!-- 🎆 Final Footer -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" alt="footer" />
+<img src="https://metrics.lecoq.io/pushpdevraj?template=classic&languages=1&lines=1&achievements=1&isocalendar=1&activity=1&stars=1"/>
+</p>
+
+---
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/pushpdevraj/pushpdevraj/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
