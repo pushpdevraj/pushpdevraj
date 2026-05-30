@@ -31,6 +31,7 @@ Node.js | MongoDB | TypeScript | Python
 
 <p align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/1307092197316890634)](https://discord.com/users/1307092197316890634)
+  
 </p>
 
 ---
