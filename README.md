@@ -32,7 +32,7 @@ Node.js | MongoDB | TypeScript | Python
 
 <p align="center">
   <a href="https://discord.com/users/1307092197316890634">
-    <img src="https://lanyard.cnrad.dev/api/1307092197316890634?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12px" alt="Discord Presence"/>
+    <img src="https://discord.c99.nl/widget/theme-2/1307092197316890634.png"/>
   </a>
 </p>
 
